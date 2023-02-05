@@ -12,10 +12,10 @@
   width: 500px;
   height: 100%;
   margin: auto;
-  border: 15px solid #2eb9ce;
+  border: 10px solid #ce2e4e;
   padding: 20px;
   border-radius: 10px;
-  color: #019ad2;
+  color: #033345;
   font-size: 1.2em;
 }
 
@@ -30,7 +30,7 @@
 }
 
 .App-header {
-  background-color: #222;
+  background-color: #171515bd;
   height: 150px;
   padding: 20px;
   color: white;
@@ -75,27 +75,27 @@ h2 {
 .input-group,
 .input-group-append {
   border-radius: 10px;
-  color: #2eb9ce !important;
+  color: #141717 !important;
 }
 
 .submit-button {
-  background-color: #2eb9ce;
+  background-color: #ded8d8ef;
   color: black;
 }
 
 .submit-button:hover,
 .submit-button:active,
 .submit-button:focus {
-  border-color: #2eb9ce;
+  border-color: #d8d4d0;
   color: black;
   outline: none !important;
   box-shadow: none;
-  background-color: #3498db;
+  background-color: #c61827;
 }
 
 .form-control,
 .form-control:focus {
-  border-color: #2eb9ce;
+  border-color: #0a0c0c;
   outline: 0 !important;
   -webkit-box-shadow: none;
   box-shadow: none;
@@ -107,5 +107,5 @@ h2 {
 }
 
 .recipient {
-  color: #019ad2;
+  color: #03688d;
 }
